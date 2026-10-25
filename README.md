@@ -18,5 +18,5 @@ An AI-powered architectural research assistant and literature curation tool. Des
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/arch-agent-librarian.git](https://github.com/your-username/arch-agent-librarian.git)
+   git clone [https://github.com/bessaihadjer-jpg/arch-agent-librarian.git](https://github.com/bessaihadjer-jpg/arch-agent-librarian.git)
    cd arch-agent-librarian
