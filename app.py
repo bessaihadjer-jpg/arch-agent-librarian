@@ -101,4 +101,5 @@ with gr.Blocks(theme=custom_theme) as demo:
             )
 
 if __name__ == "__main__":
-    demo.launch(css="footer {visibility: hidden;}")
+    port = int(os.environ.get("PORT", 7860))
+    demo.launch(server_name="0.0.0.0", server_port=port, css="footer {visibility: hidden;}")
