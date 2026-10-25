@@ -1,5 +1,5 @@
 # 🏛️ ArchAgent Librarian
-
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-276EF1?style=for-the-badge&logo=render&logoColor=white)](https://arch-agent-librarian.onrender.com)
 An AI-powered architectural research assistant and literature curation tool. Designed for architectural theorists, researchers, and designers to query complex spatial concepts and dynamically synthesize academic literature.
 
 ## 🌟 Key Features
